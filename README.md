@@ -1,6 +1,3 @@
-Copia tutto questo nel tuo `README.md`:
-
-````markdown
 # Stock Direction Prediction
 
 Bachelor’s thesis project comparing machine learning and deep learning models for next-day stock price direction prediction on Apple (AAPL).
