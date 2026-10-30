@@ -131,7 +131,3 @@ Some saved outputs in the accompanying notebook differ from the thesis results, 
 
 Bachelor’s thesis in Artificial Intelligence and Data Analytics  
 University of Trieste
-````
-
-
-
